@@ -17,7 +17,7 @@
 
 
 
-#basket img[alt] {
+#basket img[alt="kitty"] {
   position: absolute;
   z-index: 5;
   top: 291px;
