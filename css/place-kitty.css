@@ -16,7 +16,7 @@ body {
   left: 369px;
 }
 
-img class"kitty-1" src"images/Kitty-1.png" alt"Kitty-1"
+<img class="kitty-1" src="images/Kitty-1.png" alt="Kitty-1">
 
 kitty-1 {
   position: absolute;
